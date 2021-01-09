@@ -1,0 +1,267 @@
+<?xml version='1.0' encoding='utf-8'?>
+<!--This is an ISE project configuration file.-->
+<!--It holds project specific layout data for the projectmgr plugin.-->
+<!--Copyright (c) 1995-2009 Xilinx, Inc.  All rights reserved.-->
+<Project version="2" owner="projectmgr" name="ProjectMilestone1" >
+   <!--This is an ISE project configuration file.-->
+   <ItemView engineview="SynthesisOnly" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F1 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F10 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F11 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F12 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F13 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F14 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F15 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F16 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F17 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F18 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F19 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F2 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F20 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F21 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F22 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F23 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F24 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F25 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F26 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F27 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F28 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F29 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F3 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F30 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F31 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F4 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F5 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F6 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F7 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F8 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALU - Behavioral C:|Xilinx|ProjectMilestone1|ALU.vhd/F9 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral C:|Users|aa|Desktop|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral C:|Users|aa|Desktop|ProjectMilestone_2|MainModule.vhd/regfile - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral C:|Xilinx|ProjectMilestone1|MainModule.vhd/File_reg - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral C:|Xilinx|ProjectMilestone1|MainModule.vhd/Mian_Module_PAC</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral C:|Xilinx|ProjectMilestone1|MainModule.vhd/alu1 - ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral C:|Xilinx|ProjectMilestone1|MainModule.vhd/regfile - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F0 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F1 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F10 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F11 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F12 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F13 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F14 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F15 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F16 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F17 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F18 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F19 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F2 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F20 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F21 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F22 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F23 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F24 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F25 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F26 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F27 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F28 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F29 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F3 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F30 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F31 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F4 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F5 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F6 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F7 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F8 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral/F9 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|ProjectMilestone_2|MainModule.vhd/regfile - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|Semester 2|Architecture|Project|ProjectMilestone_2|MainModule.vhd/alu1 - ALU - Behavioral</ClosedNode>
+         <ClosedNode>/MainModule - Behavioral D:|Semester 2|Architecture|Project|ProjectMilestone_2|MainModule.vhd/regfile - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/ONEBIT_ALU - Behavioral C:|Xilinx|ProjectMilestone1|ONEBIT_ALU.vhd/ALUpackage</ClosedNode>
+         <ClosedNode>/RegisterFile - Behavioral C:|Xilinx|ProjectMilestone1|RegisterFile.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>mux1 - mux2x1_32B - Behavioral (D:/Semester 2/Architecture/Project/ProjectMilestone_2/mux2x1_32B.vhd)</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >5</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000001000000000000000000000000000000000202000000010000000100000064000001a5000000020000000000000000000000000200000064ffffffff000000810000000300000002000001a50000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>mux1 - mux2x1_32B - Behavioral (D:/Semester 2/Architecture/Project/ProjectMilestone_2/mux2x1_32B.vhd)</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Design Utilities</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000019d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000019d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Design Utilities</CurrentItem>
+   </ItemView>
+   <ItemView guiview="File" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>oneBitALU.vhd</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >1</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000000000000001000000000000000000000000000000000000027d000000040101000100000000000000000000000064ffffffff0000008100000000000000040000008700000001000000000000002400000001000000000000006600000001000000000000016c0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>oneBitALU.vhd</CurrentItem>
+   </ItemView>
+   <ItemView guiview="Library" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems/>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000000f8000000010001000100000000000000000000000064ffffffff000000810000000000000001000000f80000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>work</CurrentItem>
+   </ItemView>
+   <ItemView engineview="SynthesisOnly" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Configure Target Device</ClosedNode>
+         <ClosedNode>Implement Design</ClosedNode>
+         <ClosedNode>User Constraints</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000019d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000019d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" guiview="Source" compilemode="AutoCompile" >
+      <ClosedNodes>
+         <ClosedNodesVersion>2</ClosedNodesVersion>
+         <ClosedNode>/ALUTest - behavior C:|Users|aa|Desktop|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F1 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F10 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F11 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F12 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F13 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F14 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F15 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F16 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F17 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F18 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F19 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F2 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F20 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F21 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F22 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F23 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F24 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F25 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F26 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F27 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F28 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F29 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F3 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F30 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F31 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F4 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F5 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F6 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F7 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F8 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior C:|Xilinx|ProjectMilestone1|ALUTest.vhd/uut - ALU - Behavioral/F9 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F0 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F1 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F10 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F11 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F12 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F13 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F14 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F15 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F16 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F17 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F18 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F19 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F2 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F20 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F21 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F22 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F23 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F24 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F25 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F26 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F27 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F28 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F29 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F3 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F30 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F31 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F4 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F5 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F6 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F7 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F8 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|ProjectMilestone_2|ALUTest.vhd/uut - ALU - Behavioral/F9 - ONEBIT_ALU - Behavioral</ClosedNode>
+         <ClosedNode>/ALUTest - behavior D:|Semester 2|Architecture|Project|ProjectMilestone_2|ALUTest.vhd</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior C:|Users|aa|Desktop|ProjectMilestone_2|RegisterFileTest.vhd</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior C:|Xilinx|ProjectMilestone1|RegisterFileTest.vhd</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior C:|Xilinx|ProjectMilestone1|RegisterFileTest.vhd/uut - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior D:|ProjectMilestone_2|RegisterFileTest.vhd</ClosedNode>
+         <ClosedNode>/RegisterFileTest - behavior D:|Semester 2|Architecture|Project|ProjectMilestone_2|RegisterFileTest.vhd</ClosedNode>
+         <ClosedNode>/RobotTest - behavior C:|Users|aa|Desktop|ProjectMilestone_2|RobotTest.vhd/uut - MainModule - Behavioral</ClosedNode>
+         <ClosedNode>/RobotTest - behavior C:|Xilinx|ProjectMilestone1|RobotTest.vhd/uut - MainModule - Behavioral</ClosedNode>
+         <ClosedNode>/RobotTest - behavior C:|Xilinx|ProjectMilestone1|RobotTest.vhd/uut - MainModule - Behavioral/File_reg - RegisterFile - Behavioral</ClosedNode>
+         <ClosedNode>/RobotTest - behavior C:|Xilinx|ProjectMilestone1|RobotTest.vhd/uut - MainModule - Behavioral/alu1 - ALU - Behavioral</ClosedNode>
+         <ClosedNode>/RobotTest - behavior D:|ProjectMilestone_2|RobotTest.vhd</ClosedNode>
+         <ClosedNode>/RobotTest - behavior D:|Semester 2|Architecture|Project|ProjectMilestone_2|RobotTest.vhd</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>ProjectMilestone1</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000100000000000000000000000000000000020200000001000000010000006400000141000000020000000000000000000000000200000064ffffffff000000810000000300000002000001410000000100000003000000000000000100000003</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+      <CurrentItem>ProjectMilestone1</CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+         <ClosedNode>Design Utilities/Compile HDL Simulation Libraries</ClosedNode>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem></SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000019d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000019d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem></CurrentItem>
+   </ItemView>
+   <ItemView engineview="BehavioralSim" sourcetype="DESUT_VHDL_ARCHITECTURE" guiview="Process" >
+      <ClosedNodes>
+         <ClosedNodesVersion>1</ClosedNodesVersion>
+      </ClosedNodes>
+      <SelectedItems>
+         <SelectedItem>Simulate Behavioral Model</SelectedItem>
+      </SelectedItems>
+      <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
+      <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
+      <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000000000000000000019d000000010000000100000000000000000000000064ffffffff0000008100000000000000010000019d0000000100000000</ViewHeaderState>
+      <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
+      <CurrentItem>Simulate Behavioral Model</CurrentItem>
+   </ItemView>
+   <SourceProcessView>000000ff00000000000000020000011c000000a201000000050100000002</SourceProcessView>
+   <CurrentView>Implementation</CurrentView>
+</Project>

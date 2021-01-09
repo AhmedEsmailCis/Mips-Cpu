@@ -1,0 +1,7 @@
+vhdl work "or_gate.vhd"
+vhdl work "oneBitALU.vhd"
+vhdl work "mux4X1.vhd"
+vhdl work "mux2X1.vhd"
+vhdl work "and_gate.vhd"
+vhdl work "adder.vhd"
+vhdl work "ONEBIT_ALU.vhd"

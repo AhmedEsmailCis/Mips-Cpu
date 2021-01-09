@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "D:/Semester 2/Architecture/Project/ProjectMilestone_2/RobotTest_isim_beh.exe" -prj "D:/Semester 2/Architecture/Project/ProjectMilestone_2/RobotTest_beh.prj" "work.RobotTest" 

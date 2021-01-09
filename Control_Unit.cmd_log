@@ -1,0 +1,2 @@
+vhdtdtfi -lib work Contro_Unit.vhd -prj ProjectMilestone1 -o Control_Unit.spl -module Control_Unit -template C:/Xilinx/14.5/ISE_DS/ISE//data/splfile.tft -deleteonerror 
+spl2sym -intstyle ise -family artix7 Control_Unit.spl C:/Xilinx/ProjectMilestone1/Control_Unit.sym 

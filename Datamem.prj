@@ -1,0 +1,3 @@
+vhdl work "writeCondition.vhd"
+vhdl work "InstMem.vhd"
+vhdl work "Datamem.vhd"

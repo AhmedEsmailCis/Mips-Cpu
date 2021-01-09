@@ -1,0 +1,89 @@
+Release 14.5 - xst P.58f (nt64)
+Copyright (c) 1995-2012 Xilinx, Inc.  All rights reserved.
+--> Parameter TMPDIR set to C:/Xilinx/ProjectMilestone1/xst/projnav.tmp
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Parameter xsthdpdir set to C:/Xilinx/ProjectMilestone1/xst
+
+
+Total REAL time to Xst completion: 0.00 secs
+Total CPU time to Xst completion: 0.14 secs
+ 
+--> Reading design: ALU.prj
+
+TABLE OF CONTENTS
+  1) Synthesis Options Summary
+  2) HDL Parsing
+  3) HDL Elaboration
+  4) HDL Synthesis
+       4.1) HDL Synthesis Report
+  5) Advanced HDL Synthesis
+       5.1) Advanced HDL Synthesis Report
+  6) Low Level Synthesis
+  7) Partition Report
+  8) Design Summary
+       8.1) Primitive and Black Box Usage
+       8.2) Device utilization summary
+       8.3) Partition Resource Summary
+       8.4) Timing Report
+            8.4.1) Clock Information
+            8.4.2) Asynchronous Control Signals Information
+            8.4.3) Timing Summary
+            8.4.4) Timing Details
+            8.4.5) Cross Clock Domains Report
+
+
+=========================================================================
+*                          HDL Parsing                                  *
+=========================================================================
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\or_gate.vhd" into library work
+Parsing entity <or_gate>.
+Parsing architecture <Behavioral> of entity <or_gate>.
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\oneBitALU.vhd" into library work
+Parsing package <oneBitALU>.
+Parsing package body <oneBitALU>.
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\mux4X1.vhd" into library work
+Parsing entity <mux4X1>.
+Parsing architecture <Behavioral> of entity <mux4x1>.
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\mux2X1.vhd" into library work
+Parsing entity <mux2X1>.
+Parsing architecture <Behavioral> of entity <mux2x1>.
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\and_gate.vhd" into library work
+Parsing entity <and_gate>.
+Parsing architecture <Behavioral> of entity <and_gate>.
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\adder.vhd" into library work
+Parsing entity <adder>.
+Parsing architecture <Behavioral> of entity <adder>.
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\xor_gate.vhd" into library work
+Parsing entity <xor_gate>.
+Parsing architecture <Behavioral> of entity <xor_gate>.
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\Or32Bit.vhd" into library work
+Parsing entity <Or32Bit>.
+Parsing architecture <Behavioral> of entity <or32bit>.
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\ONEBIT_ALU.vhd" into library work
+Parsing entity <ONEBIT_ALU>.
+Parsing architecture <Behavioral> of entity <onebit_alu>.
+WARNING:HDLCompiler:946 - "C:\Xilinx\ProjectMilestone1\ONEBIT_ALU.vhd" Line 54: Actual for formal port bbar is neither a static name nor a globally static expression
+WARNING:HDLCompiler:946 - "C:\Xilinx\ProjectMilestone1\ONEBIT_ALU.vhd" Line 55: Actual for formal port bbar is neither a static name nor a globally static expression
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\ALUpackage.vhd" into library work
+Parsing package <ALUpackage>.
+Parsing package body <ALUpackage>.
+Parsing VHDL file "C:\Xilinx\ProjectMilestone1\ALU.vhd" into library work
+Parsing entity <ALU>.
+Parsing architecture <Behavioral> of entity <alu>.
+
+
+Total REAL time to Xst completion: 10.00 secs
+Total CPU time to Xst completion: 10.22 secs
+ 
+--> 
+
+Total memory usage is 319176 kilobytes
+
+Number of errors   :    0 (   0 filtered)
+Number of warnings :    2 (   0 filtered)
+Number of infos    :    0 (   0 filtered)
+

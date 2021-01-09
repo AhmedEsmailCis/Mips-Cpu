@@ -1,0 +1,14 @@
+[Inputs]
+=funct[5:0]=
+[Outputs]
+RegDst
+Jump
+Branch
+MemRead
+MemtoReg
+MemWrite
+ALUSrc
+RegWrite
+notBranch
+=ALUOp[1:0]=
+[BiDir]

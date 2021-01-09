@@ -1,0 +1,7 @@
+vhdl isim_temp "or_gate.vhd"
+vhdl isim_temp "oneBitALU.vhd"
+vhdl isim_temp "mux4X1.vhd"
+vhdl isim_temp "mux2X1.vhd"
+vhdl isim_temp "and_gate.vhd"
+vhdl isim_temp "adder.vhd"
+vhdl isim_temp "ONEBIT_ALU.vhd"
